@@ -1,0 +1,25 @@
+{
+  "title": "Etheon",
+  "id": "world.etheon.2024-06-21.1719016744460",
+  "system": "dnd5e",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "version": "0",
+  "size": 12004115,
+  "note": "miooo",
+  "snapshotId": null,
+  "originalSize": 23142697,
+  "createdAt": 1719016744472,
+  "packageId": "etheon",
+  "type": "world"
+}
